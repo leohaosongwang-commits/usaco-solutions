@@ -121,4 +121,4 @@ USACO problems read from standard input and write to standard output, so redirec
 
 ## Licence
 
-Released for reference and learning. See the repository for details.
+MIT — see [`LICENSE`](LICENSE) for the full text.
